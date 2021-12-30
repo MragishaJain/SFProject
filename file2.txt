@@ -5,4 +5,5 @@ change in master branch for rebase
 
 to fix bug1
 change for rebase of CR@ branch
+to chnage directly in remote
 
