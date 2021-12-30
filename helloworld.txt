@@ -1,5 +1,10 @@
 hello world
 
 change added for login feature
+ HEAD
 bug branch chng
 master chng
+
+bug branch chng:
+chng gor bug2
+bug2
